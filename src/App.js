@@ -14,6 +14,8 @@ function App() {
         </p>
         <span>
           <span>Learn </span>
+          <span>Learn </span>
+          <span>Learn </span>
           <a
             className="App-link"
             href="https://reactjs.org/"
